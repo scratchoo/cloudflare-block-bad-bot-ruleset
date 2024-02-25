@@ -1,4 +1,5 @@
 (cf.client.bot) or
+(http.user_agent contains "paddle") or
 (http.user_agent contains "duckduckgo") or
 (http.user_agent contains "facebookexternalhit") or
 (http.user_agent contains "Feedfetcher-Google") or
